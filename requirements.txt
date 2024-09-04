@@ -1,0 +1,5 @@
+sqlalchemy
+boto3
+spacy
+scikit-learn
+pdfkit
